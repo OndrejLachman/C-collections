@@ -5,3 +5,10 @@ F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.csprojAssemblyR
 F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.csproj.CoreCompileInputs.cache
 F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.exe
 F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.pdb
+C:\Users\Ondra\Desktop\C-collections\Serazeno\Serazeno\Serazeno\bin\Debug\Serazeno.exe.config
+C:\Users\Ondra\Desktop\C-collections\Serazeno\Serazeno\Serazeno\bin\Debug\Serazeno.exe
+C:\Users\Ondra\Desktop\C-collections\Serazeno\Serazeno\Serazeno\bin\Debug\Serazeno.pdb
+C:\Users\Ondra\Desktop\C-collections\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.csprojAssemblyReference.cache
+C:\Users\Ondra\Desktop\C-collections\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\Desktop\C-collections\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.exe
+C:\Users\Ondra\Desktop\C-collections\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.pdb

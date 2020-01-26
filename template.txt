@@ -20,7 +20,7 @@
 
             Console.WriteLine("\n---Dictionary---");
 
-            Dictionary<string, string> dictionary = new Dictionary<string, string>();
+            Dictionary<int, string> dictionary = new Dictionary<int, string>();
 
             Console.WriteLine("\n---ConcurrentDictionary---");
 
