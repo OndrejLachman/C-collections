@@ -1,0 +1,7 @@
+F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\bin\Debug\Serazeno.exe.config
+F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\bin\Debug\Serazeno.exe
+F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\bin\Debug\Serazeno.pdb
+F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.csprojAssemblyReference.cache
+F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.csproj.CoreCompileInputs.cache
+F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.exe
+F:\Kolekce tabulka\Serazeno\Serazeno\Serazeno\obj\Debug\Serazeno.pdb

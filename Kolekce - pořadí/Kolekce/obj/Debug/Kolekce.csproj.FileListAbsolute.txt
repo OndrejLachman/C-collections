@@ -1,0 +1,7 @@
+D:\Škola\4. ročník\PV\Kolekce\Kolekce\obj\Debug\Kolekce.csprojAssemblyReference.cache
+D:\Škola\4. ročník\PV\Kolekce\Kolekce\obj\Debug\Kolekce.csproj.CoreCompileInputs.cache
+D:\Škola\4. ročník\PV\Kolekce\Kolekce\bin\Debug\Kolekce.exe.config
+D:\Škola\4. ročník\PV\Kolekce\Kolekce\bin\Debug\Kolekce.exe
+D:\Škola\4. ročník\PV\Kolekce\Kolekce\bin\Debug\Kolekce.pdb
+D:\Škola\4. ročník\PV\Kolekce\Kolekce\obj\Debug\Kolekce.exe
+D:\Škola\4. ročník\PV\Kolekce\Kolekce\obj\Debug\Kolekce.pdb
