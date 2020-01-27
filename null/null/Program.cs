@@ -28,7 +28,12 @@ namespace @null
 
             LinkedList<string> Llist = new LinkedList<string>();
 
+            //Llist.AddFirst(null);
             //nejde
+
+            LinkedList<int> Llist2 = new LinkedList<int>();
+
+            Llist2.AddFirst(null);
 
             Console.WriteLine("\n---hashset---");
 
