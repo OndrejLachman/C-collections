@@ -5,3 +5,10 @@ D:\Škola\4. ročník\PV\Kolekce\Kolekce\bin\Debug\Kolekce.exe
 D:\Škola\4. ročník\PV\Kolekce\Kolekce\bin\Debug\Kolekce.pdb
 D:\Škola\4. ročník\PV\Kolekce\Kolekce\obj\Debug\Kolekce.exe
 D:\Škola\4. ročník\PV\Kolekce\Kolekce\obj\Debug\Kolekce.pdb
+C:\Users\Ondřej\Desktop\C-collections\Kolekce - pořadí\Kolekce\bin\Debug\Kolekce.exe.config
+C:\Users\Ondřej\Desktop\C-collections\Kolekce - pořadí\Kolekce\bin\Debug\Kolekce.exe
+C:\Users\Ondřej\Desktop\C-collections\Kolekce - pořadí\Kolekce\bin\Debug\Kolekce.pdb
+C:\Users\Ondřej\Desktop\C-collections\Kolekce - pořadí\Kolekce\obj\Debug\Kolekce.csprojAssemblyReference.cache
+C:\Users\Ondřej\Desktop\C-collections\Kolekce - pořadí\Kolekce\obj\Debug\Kolekce.csproj.CoreCompileInputs.cache
+C:\Users\Ondřej\Desktop\C-collections\Kolekce - pořadí\Kolekce\obj\Debug\Kolekce.exe
+C:\Users\Ondřej\Desktop\C-collections\Kolekce - pořadí\Kolekce\obj\Debug\Kolekce.pdb
