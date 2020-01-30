@@ -28,6 +28,7 @@ namespace pristup_k_jedne_hodnotě
 
             HashSet<string> Hashset = new HashSet<string>();
 
+            
             //Hashset.ElementAt();
 
             Console.WriteLine("\n---ConcurrentBag---");
